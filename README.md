@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcimarbmx&layout=compact)](https://github.com/alcimarbmx/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcimarbmx&langs_count=8)](https://github.com/alcimarbmx/github-readme-stats)
+
 
 <!--
 **alcimarbmx/alcimarbmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
