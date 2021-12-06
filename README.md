@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alcimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcimarbmx=true&theme=radical)
+![Alcimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcimarbmx icons=true&theme=radical)
 
 
 <!--
