@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Alcimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcimarbmx&showicons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcimarbmx&layout=compact)](https://github.com/alcimarbmx/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcimarbmx&layout=compact)
 
 
 
