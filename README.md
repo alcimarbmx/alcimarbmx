@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![Alcimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcimarbmx&showicons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alcimarbmx&layout=compact)
-
+![Snake animation](https://github.com/alcimarbmx/alcimarbmx/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 <!--
